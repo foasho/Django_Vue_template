@@ -1,0 +1,3 @@
+config/.env
+config/__pycache__/*
+accounts/__pycache__/*
